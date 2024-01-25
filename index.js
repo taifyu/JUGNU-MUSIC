@@ -1,4 +1,3 @@
-const express = require('express');
 const JUGNU = require("./handlers/Client");
 const { TOKEN } = require("./settings/config");
 
